@@ -12,6 +12,8 @@
 register_activation_hook(__FILE__, 'wp_easy_google_analytics_options');
 register_deactivation_hook(__FILE__, 'wp_easy_google_analytics_uninstall');
 
+//
+
 function wp_easy_google_analytics_options() {
     if (get_option('wp_easy_google_analytics_options') === false) {
         $new_options['ga_account_name'] = "UA-000000-0";
