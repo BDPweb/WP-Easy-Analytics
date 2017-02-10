@@ -2,10 +2,23 @@
 /*
   Plugin Name: WP Easy Google Analytics
   Description: Easy Google Analytics code integration on WordPress website
-  Author: bdpweb.it
+  Author: Biagio Di Pace
+  Author URI: http://www.bdpweb.it/
   Version: 1.0
+  License: GPL2
  */
+/*  Copyright 2017 Biagio Di Pace  (email : biagio@bdpweb.it)
 
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License, version 2, as
+  published by the Free Software Foundation.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+ */
 
 
 // Register function to be called when the plugin is activated
