@@ -17,6 +17,7 @@ Features:
 
 * Simple setup - Adds latest version of Google Analytics javascript to every page
 
+If you don't have a Google Analytics account, you can sign up for free here: https://www.google.com/analytics/
 
 == Installation ==
 
