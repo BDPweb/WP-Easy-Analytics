@@ -114,7 +114,7 @@ function process_wp_easy_google_analytics_options() {
 add_action('wp_head', 'wp_easy_google_analytics_script');
 
 function wp_easy_google_analytics_script() {
-    $options = get_option('wp_easy_analytics_options');
+    $options = get_option('wp_easy_google_analytics_options');
     ?>
     <script type="text/javascript">
         (function (i, s, o, g, r, a, m) {

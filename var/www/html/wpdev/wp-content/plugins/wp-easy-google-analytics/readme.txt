@@ -1,5 +1,5 @@
 === WP Easy Google Analytics ===
-Contributors: Biagio Di Pace - BDPweb
+Contributors: biagiodipace
 Tags: analytics, google, google analytics, google analytics plugin, javascript, marketing, pageviews, statistics, stats, tracking, visits, web stats, widget, google analytics widget
 Requires at least: 3.8
 Tested up to: 4.7.1
@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use Google Analytics on your Wordpress site without touching any code!
+Use Google Analytics on your WordPress site without touching any code!
 
 == Description ==
 
